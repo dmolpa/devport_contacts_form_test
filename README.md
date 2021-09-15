@@ -1,2 +1,3 @@
-# devport_contacts_form_test
-A basic test of the contacts form on devport.io
+# devport contacts form basic test
+Sends keys to inputs and a text area
+Verifies that the submit button is active

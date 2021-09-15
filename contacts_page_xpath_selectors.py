@@ -1,0 +1,6 @@
+first_name_input_selector = '//*[@id="jobfirstName"]'
+last_name_input_selector = '//*[@id="joblastName"]'
+email_input_selector = '//*[@id="jobEmail"]'
+phone_number_input_selector = '//*[@id="jobPhone"]'
+message_text_area_selector = '//*[@id="jobMessage"]'
+submit_button_selector = '//*[@class="ab_btn"]'
